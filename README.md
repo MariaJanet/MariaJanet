@@ -18,3 +18,16 @@
 - 🧠 Lifelong learner, currently diving deep into **DSA, BI tools**, and **ML algorithms**.
 - 💼 Actively looking for internship and project collaborations in **Data & AI** domains.
 - ✨ Motto: *"Code. Learn. Repeat."*
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ff5a00?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-2B2D42?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
