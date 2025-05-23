@@ -26,16 +26,27 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MariaJanet&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MariaJanet&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaJanet&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaJanet&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaJanet&theme=dark&hide_border=false&layout=compact&langs_count=6" height="200"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MariaJanet&theme=dark&hide_border=false" />
+</div>
+
 
 ---
 
-### 📈 GitHub Activity
+### 📈 GitHub Contribution Graph
 
-![Maria Janet J's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MariaJanetJ&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaJanet&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
